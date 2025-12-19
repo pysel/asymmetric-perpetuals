@@ -1,0 +1,9 @@
+[submodule "asymmetric-perpetuals-contracts"]
+	path = asymmetric-perpetuals-contracts
+	url = https://github.com/pysel/asymmetric-perpetuals-contracts
+[submodule "asymmetric-perpetuals-backend"]
+	path = asymmetric-perpetuals-backend
+	url = https://github.com/pysel/asymmetric-perpetuals-backend
+[submodule "asymmetric-perpetuals-frontend"]
+	path = asymmetric-perpetuals-frontend
+	url = https://github.com/pysel/asymmetric-perpetuals-frontend
