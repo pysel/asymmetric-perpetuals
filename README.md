@@ -4,6 +4,8 @@
 
 > **[📺 Watch the Demo](https://drive.google.com/file/d/17WXU8fwADnFHF9NkcxTSEXH1K54RGSUI/view?usp=drive_link)**
 
+**Devnet Program ID:** `72FKko7cnjGWmCDDnRk3rcw3e47nurtwdmng3oeWbJ5s`
+
 ## The Problem
 
 Memecoins have found product-market fit in crypto, but they're missing a critical trading feature: **the ability to short**. Traditional shorting mechanisms (lending markets, perpetual futures orderbooks) don't work for memecoins because:
