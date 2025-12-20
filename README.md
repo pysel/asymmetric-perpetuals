@@ -2,6 +2,8 @@
 
 **A derivatives exchange for shorting low-liquidity, high-volatility assets (memecoins) on Solana.**
 
+> **[📺 Watch the Demo](https://drive.google.com/file/d/1xxhQyD1LbU969Dg4W8wHucpsOxv_E5SK/view?usp=drive_link)**
+
 ## The Problem
 
 Memecoins have found product-market fit in crypto, but they're missing a critical trading feature: **the ability to short**. Traditional shorting mechanisms (lending markets, perpetual futures orderbooks) don't work for memecoins because:
